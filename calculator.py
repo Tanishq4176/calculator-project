@@ -1,6 +1,5 @@
 # Calculator Project
-# Author: Tanishq
-# Version 1.0
+
 
 # calculator.py
 def add(x, y): return x + y
